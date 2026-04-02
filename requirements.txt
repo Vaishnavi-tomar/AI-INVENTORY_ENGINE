@@ -1,0 +1,7 @@
+pandas
+numpy
+torch
+chronos-forecasting
+gradio
+fastapi
+matplotlib
